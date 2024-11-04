@@ -1,11 +1,11 @@
 [package]
-name = "dns_resolver"
+name = "hostname_resolver"
 version = "0.1.0"
 authors = ["Claus Guttesen <kometen@gmail.com>"]
 description = "Validate hostname"
 license = "MIT"
-repository = "https://github.com/kometen/dns-resolver"
-documentation = "https://github.com/kometen/dns-resolver"
+repository = "https://github.com/kometen/hostname-resolver"
+documentation = "https://github.com/kometen/hostname-resolver"
 readme = "README.md"
 keywords = ["network", "dns"]
 categories = ["config"]
